@@ -1,0 +1,25 @@
+size
+18 24
+
+board
+
+empt empt empt empt empt empt empt empt empt empt empt empt empt empt empt empt empt empt empt empt empt empt empt empt
+empt empt empt empt empt empt empt empt empt empt empt empt empt empt empt empt empt empt empt empt empt empt empt empt
+empt empt empt empt empt empt empt empt empt empt flag flag flag flag flag flag flag flag empt empt empt empt empt empt
+empt empt empt empt empt empt empt empt empt empt flag empt empt empt empt empt empt flag empt empt empt empt empt empt
+empt empt empt empt empt empt empt empt empt empt flag empt is empt empt empt empt flag empt empt empt empt empt empt
+empt empt empt empt empt empt empt empt empt empt flag empt empt empt empt empt empt flag empt empt empt empt empt empt
+empt empt empt empt empt empt flag flag flag flag flag empt empt empt empt win empt flag empt empt empt empt empt empt
+empt empt empt empt empt empt flag empt empt empt empt empt empt empt empt empt empt flag empt empt empt empt empt empt
+empt empt empt empt empt empt flag empt batxt empt empt empt empt empt empt empt empt flag empt empt empt empt empt empt
+empt empt empt empt empt empt flag empt empt empt empt empt empt empt empt empt empt flag empt empt empt empt empt empt
+empt empt empt empt empt empt flag flag flag flag flag flag flag flag flag flag flag flag empt empt empt empt empt empt
+empt empt empt empt empt empt empt empt empt empt flag empt empt empt empt empt empt flag empt empt empt empt empt empt
+empt empt empt empt empt empt empt waltxt empt empt flag empt fltxt empt empt empt empt flag empt empt empt empt empt empt
+empt empt empt empt empt empt empt is empt empt flag empt is empt empt wall empt flag empt empt empt empt empt empt
+empt empt empt empt empt empt empt you empt empt flag empt stop empt empt empt empt flag empt empt empt empt empt empt
+empt empt empt empt empt empt empt empt empt empt flag empt empt empt flag flag flag flag empt empt empt empt empt empt
+empt empt empt empt empt empt empt empt empt empt flag flag flag flag flag empt empt empt empt empt empt empt empt empt
+empt empt empt empt empt empt empt empt empt empt empt empt empt empt empt empt empt empt empt empt empt empt empt empt
+
+end
